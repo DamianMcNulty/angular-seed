@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/DamianMcNulty/angular-seed.svg?branch=master)](https://travis-ci.org/DamianMcNulty/angular-seed)
 # angular-seed — the seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
